@@ -1,0 +1,347 @@
+Count Lines of Code v2.0.23                                25 juin 2014  10:25
+
+                               GestionEcole.vbp
+------------------------------------------------------------------------------
+
+   VBP Name:  C:\Users\CISSE\Documents\Visual Basic 6....\GestionEcole.vbp
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\DBModule.bas
+
+                  14  Functions
+                 121  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  21  Blank lines
+                  13  Comment lines
+          ----------
+                 169  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\DE.Dsr
+
+                   2  Sub routines
+                   2  Miscellaneous lines of code
+                 474  Auto generated lines (** Not included in totals **)
+                   3  Blank lines
+                   1  Comment lines
+          ----------
+                   8  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\DR_ETUD.Dsr
+
+                   1  Sub routines
+                   4  Miscellaneous lines of code
+                 386  Auto generated lines (** Not included in totals **)
+                   2  Blank lines
+                   1  Comment lines
+          ----------
+                   8  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\DR_INS.Dsr
+
+                   1  Sub routines
+                   3  Miscellaneous lines of code
+                 381  Auto generated lines (** Not included in totals **)
+                   3  Blank lines
+                   1  Comment lines
+          ----------
+                   8  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\DR_PAY.Dsr
+
+                   1  Sub routines
+                   4  Miscellaneous lines of code
+                 378  Auto generated lines (** Not included in totals **)
+                   1  Blank lines
+                   1  Comment lines
+          ----------
+                   7  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\DataReport.bas
+
+                   3  Functions
+                  51  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                   5  Blank lines
+                  22  Comment lines
+          ----------
+                  81  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\Etudiant.bas
+
+                  10  Functions
+                 259  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  22  Blank lines
+                  24  Comment lines
+          ----------
+                 315  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmBkg.frm
+
+                   4  Constant variables
+                   2  API Declare statements
+                   3  Sub routines
+                   1  Functions
+                  54  Miscellaneous lines of code
+                  31  Auto generated lines (** Not included in totals **)
+                   8  Blank lines
+                  10  Comment lines
+          ----------
+                  82  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmEtudiant.frm
+
+                   6  Sub routines
+                  35  Miscellaneous lines of code
+                 786  Auto generated lines (** Not included in totals **)
+                   8  Blank lines
+                   8  Comment lines
+          ----------
+                  57  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmEvent.frm
+
+                   8  Sub routines
+                   4  Functions
+                  58  Miscellaneous lines of code
+                 195  Auto generated lines (** Not included in totals **)
+                  15  Blank lines
+                   5  Comment lines
+          ----------
+                  90  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmGraph.frm
+
+                   5  Sub routines
+                   3  Functions
+                  76  Miscellaneous lines of code
+                 100  Auto generated lines (** Not included in totals **)
+                  12  Blank lines
+                  17  Comment lines
+          ----------
+                 113  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmGridEtudiant.frm
+
+                  16  Sub routines
+                   6  Functions
+                 170  Miscellaneous lines of code
+                 359  Auto generated lines (** Not included in totals **)
+                  28  Blank lines
+                  11  Comment lines
+          ----------
+                 231  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmGridInscription.frm
+
+                  16  Sub routines
+                   7  Functions
+                 136  Miscellaneous lines of code
+                 332  Auto generated lines (** Not included in totals **)
+                  28  Blank lines
+                  16  Comment lines
+          ----------
+                 203  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmGridPayment.frm
+
+                  11  Sub routines
+                   7  Functions
+                 125  Miscellaneous lines of code
+                 273  Auto generated lines (** Not included in totals **)
+                  32  Blank lines
+                  14  Comment lines
+          ----------
+                 189  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmGridProfil.frm
+
+                  11  Sub routines
+                   6  Functions
+                 106  Miscellaneous lines of code
+                 275  Auto generated lines (** Not included in totals **)
+                  21  Blank lines
+                  10  Comment lines
+          ----------
+                 154  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmInscription.frm
+
+                   9  Sub routines
+                  44  Miscellaneous lines of code
+                 414  Auto generated lines (** Not included in totals **)
+                  10  Blank lines
+                   5  Comment lines
+          ----------
+                  68  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmLicence.frm
+
+                   3  Sub routines
+                   5  Miscellaneous lines of code
+                  67  Auto generated lines (** Not included in totals **)
+                   3  Blank lines
+                   1  Comment lines
+          ----------
+                  12  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmLogin2.frm
+
+                   8  Sub routines
+                   4  Functions
+                 110  Miscellaneous lines of code
+                 281  Auto generated lines (** Not included in totals **)
+                  21  Blank lines
+                  17  Comment lines
+          ----------
+                 160  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmParametres.frm
+
+                   7  Sub routines
+                   2  Functions
+                  66  Miscellaneous lines of code
+                 245  Auto generated lines (** Not included in totals **)
+                  13  Blank lines
+                  11  Comment lines
+          ----------
+                  99  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmPayment.frm
+
+                   6  Sub routines
+                  33  Miscellaneous lines of code
+                 235  Auto generated lines (** Not included in totals **)
+                   7  Blank lines
+                   6  Comment lines
+          ----------
+                  52  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmRapport.frm
+
+                   9  Sub routines
+                   8  Miscellaneous lines of code
+                  43  Auto generated lines (** Not included in totals **)
+                  11  Blank lines
+                   0  Comment lines
+          ----------
+                  28  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FrmUser.frm
+
+                   3  Sub routines
+                  24  Miscellaneous lines of code
+                 500  Auto generated lines (** Not included in totals **)
+                   4  Blank lines
+                   8  Comment lines
+          ----------
+                  39  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\FunctionUser.bas
+
+                  23  Functions
+                 289  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  36  Blank lines
+                  58  Comment lines
+          ----------
+                 406  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\Inscription.bas
+
+                  10  Functions
+                 200  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  15  Blank lines
+                  30  Comment lines
+          ----------
+                 255  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\Main.frm
+
+                  55  Sub routines
+                  87  Miscellaneous lines of code
+                 474  Auto generated lines (** Not included in totals **)
+                  54  Blank lines
+                  10  Comment lines
+          ----------
+                 206  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\Payment.bas
+
+                   8  Functions
+                 153  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  17  Blank lines
+                  17  Comment lines
+          ----------
+                 195  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\RunAtStartUp.bas
+
+                   4  Constant variables
+                   6  API Declare statements
+                   2  Functions
+                  29  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  19  Blank lines
+                   6  Comment lines
+          ----------
+                  66  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\SendEmail.bas
+
+                   1  API Declare statements
+                   6  Functions
+                 149  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  11  Blank lines
+                  14  Comment lines
+          ----------
+                 181  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\Stats.bas
+
+                  47  Functions
+                 238  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  62  Blank lines
+                  56  Comment lines
+          ----------
+                 403  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\TopMost.bas
+
+                  11  Constant variables
+                   3  API Declare statements
+                   5  Functions
+                  74  Miscellaneous lines of code
+                   1  Auto generated lines (** Not included in totals **)
+                  34  Blank lines
+                  15  Comment lines
+          ----------
+                 142  Module lines of code
+
+Module Name:  C:\Users\CISSE\Documents\Visual Basic 6.0\5-Gestion Des Inscriptions D'Une Ecole\frmAbout.frm
+
+                   3  Sub routines
+                  10  Miscellaneous lines of code
+                 187  Auto generated lines (** Not included in totals **)
+                   5  Blank lines
+                   2  Comment lines
+          ----------
+                  20  Module lines of code
+
+          ==========
+               4 047  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+
