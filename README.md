@@ -1,7 +1,7 @@
 Gestion Inscription
 ======
 
-eStation is a school management software made during my first year at university in 2014.
+Gestion Inscription is a school management software made during my first year at university in 2014.
 
 [Report PDF](./doc/Rapport.pdf)
 
