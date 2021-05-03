@@ -3,7 +3,6 @@
 
 # User-specific files
 *.suo
-*.jpg
 *.user
 *.sln.docstates
 
@@ -210,6 +209,5 @@ $RECYCLE.BIN/
 
 # Windows Installer files
 *.cab
-*.msi
 *.msm
 *.msp
